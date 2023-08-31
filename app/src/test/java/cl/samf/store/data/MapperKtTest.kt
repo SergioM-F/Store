@@ -19,7 +19,7 @@ class MapperKtTest {
 
         //then
         assertEquals(result.id, store.id)
-        assertEquals(result.title, store.title)
+        assertEquals(result.titulo, store.titulo)
         assertThat(store.price, closeTo(result.price, 0.001))
         assertThat(store.rating.rate, closeTo(result.rating.rate, 0.001))
 
