@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="id">Id</string>
+    <string name="title">Store Title</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="image">Image</string>
+    <string name="rating">Rating</string>
+    <string name="Rate">Rate</string>rating
+    <string name="Count">Image Phone Details</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">Todo</string>
+    <string name="imagedetail">TODO</string>
+
+
+</resources>
